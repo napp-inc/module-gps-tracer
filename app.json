@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "module-gps",
+    "slug": "module-gps",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.trigo.modulegps",
+      "config": {
+        "googleMaps": {
+          "apiKey": "process.env.EXPO_PUBLIC_API_GOOGLE_KEY"
+        }
+      },
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "googleApiKey": "AIzaSyBf2zOFDzh_TxDRl0Lg6Jqp8sZMJ9Z-j7I",
+      "eas": {
+        "projectId": "081e6c6f-2ff1-46e0-8340-82d6b0672f01"
+      }
+    }
+  }
+}

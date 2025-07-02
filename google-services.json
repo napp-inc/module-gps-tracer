@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471560127076",
+    "project_id": "stagiaire-2025",
+    "storage_bucket": "stagiaire-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471560127076:android:9414274186642a43545571",
+        "android_client_info": {
+          "package_name": "com.trigo.jnappstransfertcash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx8sVCiD_pmyAavKc2fRj2GXoI5Y9PkNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471560127076:android:989a05b739d1d488545571",
+        "android_client_info": {
+          "package_name": "com.trigo.modulegps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx8sVCiD_pmyAavKc2fRj2GXoI5Y9PkNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
